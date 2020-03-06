@@ -1,7 +1,11 @@
 # todos
 
-  js小練習  
+  ## js小練習  
+  
+  [todos](https://shikai1997.github.io/todos/)
+  
+  Lhttps://shikai1997.github.io/todos/
 
-1.使用localStorage存取資料
+* 使用localStorage存取資料
 
-2.點擊2下可以刪除事項
+* 點擊2下可以刪除事項
