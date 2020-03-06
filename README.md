@@ -3,8 +3,6 @@
   ## js小練習  
   
   [todos](https://shikai1997.github.io/todos/)
-  
-  Lhttps://shikai1997.github.io/todos/
 
 * 使用localStorage存取資料
 
