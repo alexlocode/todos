@@ -1,6 +1,6 @@
-# todos
+## todos
 
-  ## js小練習  
+  # js小練習  
   
   [todos](https://shikai1997.github.io/todos/)
 
