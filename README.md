@@ -2,7 +2,7 @@
 
   # js小練習  
   
-  [todos](https://shikai1997.github.io/todos/)
+  [todos](https://alexlocode.github.io/todos/)
 
 * 使用localStorage存取資料
 
